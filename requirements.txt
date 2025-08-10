@@ -1,0 +1,12 @@
+diffusers
+transformers
+huggingface_hub
+accelerate
+imageio
+numpy
+plyfile
+trimesh
+pycolmap==3.10.0
+gaussian-splatting/submodules/diff-gaussian-rasterization
+gaussian-splatting/submodules/simple-knn
+git+https://github.com/jytime/LightGlue.git#egg=lightglue
