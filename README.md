@@ -3,7 +3,7 @@
 #####  <p align="center"> [Yehonathan Litman](https://yehonathanlitman.github.io/), [Fernando De la Torre](https://www.cs.cmu.edu/~ftorre/), [Shubham Tulsiani](https://shubhtuls.github.io/)</p>
 ##### <p align="center"> ICCV 2025
 
-#### <p align="center">[📑 Paper](https://arxiv.org/abs/TODO) | [🖥️ Webpage](https://yehonathanlitman.github.io/light_switch/) <br><br>
+#### <p align="center">[📑 Paper](http://arxiv.org/abs/2508.06494) | [🖥️ Webpage](https://yehonathanlitman.github.io/light_switch/) <br><br>
     
 ![Teaser image](assets/lightswitch_v2.svg)
 
